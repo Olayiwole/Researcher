@@ -45,13 +45,13 @@ include('config/setup.php'); // configuration file
             <div class="col-md-3 box">
                 <i class="ion-ios-chatboxes-outline icon-big"></i>
                 <h3>Opinion Polls </h3>
-                <p>We amplify your voice through our opinion polls. We want to represent your opinions and how you feel about the issues and trends shaping your community </p>
+                <p>We amplify your voice through our opinion polls. We want to represent your opinions, how you feel about the issues and trends shaping your community </p>
             </div>
 
             <div class="col-md-3 box">
                 <i class="ion-ios-analytics-outline icon-big"></i>
                 <h3>Surveys</h3>
-                <p>Make data-driven decisions based on carefully analyzed results from our surveys. Speculations are often different from the numbers.  </p>
+                <p>Make data-driven decisions based on carefully analyzed results from our surveys because speculations are often different from the numbers.  </p>
             </div>
 
             <div class="col-md-3 box">
@@ -62,7 +62,7 @@ include('config/setup.php'); // configuration file
             <div class="col-md-3 box">
                 <i class="ion-ios-people-outline icon-big"></i>
                 <h3>Talks/Conferences</h3>
-                <p> Catalyze action toward a more open system for sharing information. Our conferences will provide a platform for individuals and organizations to improve conversations about open access to public data. </p>
+                <p> To catalyze action toward a more open system for sharing information. Our conferences will provide a platform for individuals and organizations to improve conversations about data and how we can make social impact with it. </p>
             </div>
         </div>
     </div>
