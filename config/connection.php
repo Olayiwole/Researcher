@@ -10,6 +10,6 @@ $host = 'localhost';
 $user = 'root';
 $password = 'yahweh';
 
-$db_name = 'Researcher';
+$db_name = 'researcher';
 
 $db_conn = mysqli_connect($host, $user, $password, $db_name) OR die('couldn\'t connect because:'.mysqli_connect_error());
