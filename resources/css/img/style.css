@@ -18,6 +18,19 @@
             text-rendering: optimizeLegibility;
             /*this makes our font to render in a perfect way*/
         }
+             
+.nav-link:focus, .nav-link:hover{
+    color: #188c75!important
+}
+.nav-link{
+    color: #165!important
+}
+.nav-brand,.nav-brand>img{
+    height: 100%
+}
+nav{
+        height: 100px;
+}
 /*------------------------Header---------------------*/
         header{
             background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);

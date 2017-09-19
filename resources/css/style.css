@@ -12,29 +12,55 @@
             font-weight:300;
             text-rendering: optimizeLegibility;
         }
+        
+.nav-link:focus, .nav-link:hover{
+    color: #188c75!important
+}
+@media (min-width: 1192px){
+         .navbar-right{
+                margin-left: 30%
+            }
+}
+.nav-link{
+    color: #165!important
+}
+.navbar-brand,.navbar-brand>img{
+    height: 100%
+}
+nav{
+        min-height: 100px;
+}
 /*------------------------Header---------------------*/
         header{
             background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/bliss.png);
             background-size:cover;
             background-position: center;
             background-attachment: fixed;
-            height:100vh;
+            min-height:100vh;
         }
 
         .hero-text-box{
             position: absolute;
             width:95%;
-            top: 50%;
+            top: 60%;
             left: 50%;
             transform: translate(-50%, -50%)
         }
-
-        .lead{
+@media (min-width: 1025px){
+        .lead {
             color:#fff;
             margin-bottom:50px;
             width:50%;
         }
+        }
+.lead{
+    color: #fff
+}
 
+.icon-big{
+    font-size: 60px;
+    color: #165
+}
 
 /*headlines*/
         h1{

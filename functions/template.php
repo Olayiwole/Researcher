@@ -12,8 +12,11 @@ function nav_main($db_conn)
     $result = mysqli_query($db_conn, $query);
 
     while ($nav = mysqli_fetch_assoc($result)) { ?>
-
-        <li><a href="<?php echo $nav['nav_id']; ?>"><?php echo $nav['nav_label']; ?></a></li>
+                <!-- added the bootstrap navbar classes here -->
+                <li class="nav-item">
+                    <a class="nav-link" href="<?php echo $nav['nav_id']; ?>"><?php echo $nav['nav_label']; ?>
+                    </a>
+                </li>
 
     <?php }
 }

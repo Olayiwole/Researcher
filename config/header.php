@@ -27,7 +27,8 @@
     <link rel="stylesheet" href="vendors/css/css.css">
     <link rel="stylesheet" href="vendors/css/ionicons.min.css">
     <link rel="stylesheet" href="vendors/css/normalize.css">
-    <link rel="stylesheet" href="vendors/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="vendors/css/bootstrap.min.css">
+    <!-- changed bootstrap grid to bootstrap complete css -->
     <link rel="stylesheet" href="resources/css/style.css">
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
     <style type="text/css">

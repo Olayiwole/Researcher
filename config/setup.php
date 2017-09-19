@@ -8,7 +8,7 @@
 
 include ('config/connection.php');
 
-$site_header = 'We tell compelling stories with data'; // site header message
+$site_header = 'We tell stories with data'; // site header message
 
 # functions:
 include ('functions/data.php');
