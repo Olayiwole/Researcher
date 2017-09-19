@@ -8,7 +8,7 @@
 
 $host = 'localhost';
 $user = 'root';
-$password = 'DTjRMPCLRLv9cqnW';
+$password = 'yahweh';
 
 $db_name = 'researcher';
 
