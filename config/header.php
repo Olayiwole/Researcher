@@ -9,7 +9,6 @@
 
 <head>
 
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106474917-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -28,7 +27,6 @@
     <link rel="stylesheet" href="vendors/css/ionicons.min.css">
     <link rel="stylesheet" href="vendors/css/normalize.css">
     <link rel="stylesheet" href="vendors/css/bootstrap.min.css">
-    <!-- changed bootstrap grid to bootstrap complete css -->
     <link rel="stylesheet" href="resources/css/style.css">
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
     <style type="text/css">

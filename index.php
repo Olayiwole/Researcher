@@ -69,29 +69,29 @@ include('config/setup.php'); // configuration file
 </section>
 
 <!-- Begin MailChimp Signup Form -->
-<!--newsletter subscription section-->
+<!--newsletter subscription section -->
 <section id="mc_embed_signup" class="section-newsletter">
     <div id="mc_embed_signup">
         <form action="//researcher.us16.list-manage.com/subscribe/post?u=dc966b60e45abdd9634944b3d&amp;id=1bc86c7757" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
                 <label for="mce-EMAIL">Subscribe to our newsletter</label>
                 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_dc966b60e45abdd9634944b3d_1bc86c7757" tabindex="-1" value=""></div>
                 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
         </form>
     </div>
 </section>
-<!--newsletter subscription section-->
-<!--End mc_embed_signup-->
+<!--newsletter subscription section -->
+<!--End mc_embed_signup -->
 
-<!--Footer section-->
+<!--Footer section -->
 
 <?php include (D_TEMPLATE.'/footer.php'); ?>
 
 </div>
-<!--/Footer section-->
+<!--/Footer section -->
 <!-- added bootstrap and jquery files -->
 <script type="text/javascript" src="vendors/js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="vendors/js/bootstrap.min.js"></script>
